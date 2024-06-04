@@ -1,0 +1,84 @@
+.gtf{
+width: 50%;
+}
+img{
+    width: 100%;
+}
+
+.round-img{
+    border-radius: 10px;   
+}
+
+
+.bou{
+    background-image: url(kitten.jpg);
+    padding: 80px 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin-top: 10px;
+}
+.text-fon{
+    background-color: #cecece87;
+    padding: 20px;
+    font-family: "Cormorant Garamond", serif;
+
+    font-weight: 700;
+    font-size: 1.3em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    font-family: "Pacifico", cursive;
+    margin-top: 10px;
+}
+h2{
+ font-family: "Playfair Display", serif;
+}
+.bold{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+/* 
+
+font-family: "Pacifico", cursive;
+font-family: "Poetsen One", sans-serif;
+font-family: "Rubik", sans-serif;
+
+font-family: "Cormorant Garamond", serif;
+
+ */
+
+ .boy{
+    background-image: url(lion4.jpg);
+    padding: 80px 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin-top: 10px;
+ }
+ 
+ 
+ .led{
+    background-image: url(tiger-3.jpg);
+    padding: 80px 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin-top: 10px;
+ }
+ .mok{
+    background-color: rgb(246, 246, 234);
+ }
+ .pop{
+    background-color: rgb(246, 246, 234); 
+ }
+ footer{
+
+    background-color: #414141;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+ }
+ .socio-link{
+    font-size: 2em;
+    text-decoration: none;
+  color: rgb(255, 5, 5);
+ }
