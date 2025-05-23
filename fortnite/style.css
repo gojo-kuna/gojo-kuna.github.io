@@ -1,0 +1,31 @@
+.font-fortnite{
+    font-family: "Comic Relief", system-ui;
+}
+.col-md-6{
+    font-family: "Comic Relief", system-ui;
+}
+
+
+img{
+    width: 100%;
+
+}
+h2{
+    font-family: "Tuffy", sans-serif;
+}
+.navbar{
+    background-color: rgb(0, 165, 235);
+
+}
+.nav-link{
+    color: black;
+font-size: 1.1em;
+}
+.nav-link:hover{
+    text-shadow: 0px 0px 1px rgb(0, 0, 0);
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
+.nav-item{
+    /* background-color: rgb(148, 148, 148); */
+}
